@@ -1,0 +1,6 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+authors = ["wtrmgmg <7411526+wtrmgmg@users.noreply.github.com>"]
+
+[dependencies]
